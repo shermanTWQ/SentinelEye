@@ -1,0 +1,11 @@
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SentinelEye\SentinelEye\bin\Debug\SentinelEye.exe.config
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SentinelEye\SentinelEye\bin\Debug\SentinelEye.exe
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SentinelEye\SentinelEye\bin\Debug\SentinelEye.pdb
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SentinelEye\SentinelEye\bin\Debug\SentinelEye.xml
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SentinelEye\SentinelEye\obj\Debug\SentinelEye.vbprojResolveAssemblyReference.cache
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SentinelEye\SentinelEye\obj\Debug\SentinelEye.Resources.resources
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SentinelEye\SentinelEye\obj\Debug\SentinelEye.vbproj.GenerateResource.Cache
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SentinelEye\SentinelEye\obj\Debug\SentinelEye.exe
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SentinelEye\SentinelEye\obj\Debug\SentinelEye.xml
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SentinelEye\SentinelEye\obj\Debug\SentinelEye.pdb
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SentinelEye\SentinelEye\obj\Debug\SentinelEye.SetinelEye.resources
